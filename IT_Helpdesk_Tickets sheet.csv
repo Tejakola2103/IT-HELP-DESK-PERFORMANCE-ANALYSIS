@@ -1,0 +1,301 @@
+TicketID,Category,Priority,Status,AssignedTo,CreatedDate,ResolvedDate,SLA_Hours,ResolutionTime_Hours,Department,Channel
+T001,Network,Low,Open,Ramesh D.,2025-04-21,,24,,HR,Email
+T002,Email Issues,Medium,Open,Alex Kumar,2025-04-22,,72,,IT Support,Email
+T003,Email Issues,Low,Open,Neha V.,2025-04-07,,24,,Sales,Walk-in
+T004,Software,High,Resolved,Priya S.,2025-04-08,2025-04-08,48,4.0,Finance,Phone
+T005,Hardware,Medium,Resolved,Alex Kumar,2025-04-05,2025-04-05,24,10.0,Finance,Phone
+T006,Access Rights,High,Open,Alex Kumar,2025-04-20,,48,,Admin,Email
+T007,Hardware,Low,Resolved,Neha V.,2025-04-18,2025-04-19,48,28.0,HR,Phone
+T008,Access Rights,Medium,Open,Priya S.,2025-04-03,,24,,Finance,Web Portal
+T009,Network,High,In Progress,Neha V.,2025-04-12,,48,,IT Support,Web Portal
+T010,Software,Medium,In Progress,Priya S.,2025-04-18,,72,,Finance,Web Portal
+T011,Software,Low,Open,Suma T.,2025-04-22,,48,,Admin,Phone
+T012,Access Rights,Medium,Resolved,Neha V.,2025-04-03,2025-04-03,24,17.0,Admin,Web Portal
+T013,Email Issues,High,In Progress,Suma T.,2025-04-09,,24,,Sales,Walk-in
+T014,Network,Low,Escalated,Ramesh D.,2025-04-29,,72,,Sales,Walk-in
+T015,Software,High,Open,Ramesh D.,2025-04-03,,24,,Admin,Email
+T016,Email Issues,Medium,Escalated,John M.,2025-04-13,,48,,IT Support,Email
+T017,Network,Low,Resolved,Suma T.,2025-04-22,2025-04-25,72,86.0,Admin,Web Portal
+T018,Software,High,Resolved,Alex Kumar,2025-04-15,2025-04-16,24,36.0,Finance,Web Portal
+T019,Email Issues,High,In Progress,Alex Kumar,2025-04-05,,48,,Sales,Phone
+T020,Network,Medium,Open,Ramesh D.,2025-04-16,,24,,IT Support,Web Portal
+T021,Hardware,High,Open,Priya S.,2025-04-29,,72,,IT Support,Web Portal
+T022,Email Issues,Low,Escalated,Suma T.,2025-04-05,,72,,Sales,Walk-in
+T023,Network,Medium,In Progress,Neha V.,2025-05-01,,24,,Finance,Walk-in
+T024,Hardware,Low,Escalated,Ramesh D.,2025-04-29,,72,,IT Support,Phone
+T025,Email Issues,Low,In Progress,Alex Kumar,2025-04-01,,72,,IT Support,Email
+T026,Network,Low,Open,John M.,2025-04-08,,24,,HR,Phone
+T027,Email Issues,Low,In Progress,Neha V.,2025-04-22,,48,,Sales,Walk-in
+T028,Software,Low,Escalated,Alex Kumar,2025-04-08,,48,,Admin,Phone
+T029,Hardware,High,Escalated,Neha V.,2025-04-14,,48,,IT Support,Email
+T030,Software,Low,Resolved,Ramesh D.,2025-04-13,2025-04-13,72,17.0,Sales,Walk-in
+T031,Network,Medium,In Progress,Ramesh D.,2025-04-05,,48,,IT Support,Walk-in
+T032,Hardware,High,Open,John M.,2025-04-26,,72,,IT Support,Email
+T033,Access Rights,Medium,In Progress,Priya S.,2025-04-30,,24,,HR,Walk-in
+T034,Access Rights,Low,In Progress,Priya S.,2025-04-29,,24,,Finance,Walk-in
+T035,Software,Low,Escalated,Suma T.,2025-04-10,,48,,HR,Email
+T036,Network,Low,Open,Alex Kumar,2025-04-19,,72,,Sales,Walk-in
+T037,Hardware,High,In Progress,Alex Kumar,2025-04-17,,72,,HR,Email
+T038,Access Rights,Low,In Progress,John M.,2025-04-20,,24,,HR,Email
+T039,Email Issues,High,Escalated,John M.,2025-04-20,,24,,Finance,Phone
+T040,Network,Medium,Resolved,Ramesh D.,2025-04-07,2025-04-08,72,34.0,Finance,Walk-in
+T041,Access Rights,High,Open,John M.,2025-04-11,,24,,IT Support,Email
+T042,Network,Low,Resolved,Ramesh D.,2025-04-18,2025-04-18,24,12.0,Finance,Phone
+T043,Email Issues,Medium,Resolved,Neha V.,2025-04-06,2025-04-06,48,5.0,IT Support,Web Portal
+T044,Email Issues,Low,Open,Suma T.,2025-04-09,,24,,Finance,Web Portal
+T045,Network,High,In Progress,Priya S.,2025-04-23,,48,,Finance,Email
+T046,Network,Low,Escalated,Alex Kumar,2025-04-03,,72,,Finance,Web Portal
+T047,Access Rights,High,In Progress,Neha V.,2025-04-21,,48,,Admin,Email
+T048,Email Issues,Low,In Progress,Suma T.,2025-04-04,,24,,Sales,Web Portal
+T049,Network,Medium,Open,Alex Kumar,2025-04-14,,24,,Finance,Web Portal
+T050,Network,High,Open,Priya S.,2025-04-22,,24,,Sales,Web Portal
+T051,Software,Medium,In Progress,Alex Kumar,2025-04-30,,24,,HR,Phone
+T052,Network,Low,In Progress,Neha V.,2025-04-26,,48,,IT Support,Walk-in
+T053,Software,Low,Escalated,Priya S.,2025-04-28,,24,,Finance,Phone
+T054,Hardware,High,In Progress,Ramesh D.,2025-04-27,,24,,Admin,Phone
+T055,Email Issues,Medium,Resolved,Neha V.,2025-04-09,2025-04-10,24,26.0,Sales,Phone
+T056,Network,Low,Open,John M.,2025-05-01,,24,,Finance,Email
+T057,Network,High,Escalated,Suma T.,2025-04-04,,72,,Admin,Email
+T058,Network,Low,In Progress,Neha V.,2025-04-13,,72,,Admin,Email
+T059,Network,Medium,In Progress,Alex Kumar,2025-04-17,,72,,Finance,Phone
+T060,Network,High,Resolved,Priya S.,2025-04-22,2025-04-23,24,36.0,Finance,Walk-in
+T061,Software,Medium,In Progress,Neha V.,2025-04-23,,48,,Admin,Web Portal
+T062,Email Issues,Low,Resolved,Suma T.,2025-04-20,2025-04-22,72,55.0,Finance,Web Portal
+T063,Access Rights,Medium,Resolved,Neha V.,2025-04-14,2025-04-16,72,63.0,HR,Walk-in
+T064,Hardware,Medium,In Progress,John M.,2025-04-26,,72,,Sales,Phone
+T065,Software,Low,Resolved,Alex Kumar,2025-04-03,2025-04-03,24,18.0,IT Support,Web Portal
+T066,Access Rights,Medium,Open,Neha V.,2025-04-16,,72,,Sales,Web Portal
+T067,Access Rights,Medium,Escalated,Ramesh D.,2025-04-23,,72,,HR,Email
+T068,Software,Low,Escalated,Neha V.,2025-04-29,,24,,Sales,Walk-in
+T069,Hardware,Medium,In Progress,Ramesh D.,2025-04-02,,72,,Admin,Phone
+T070,Email Issues,Medium,Escalated,Ramesh D.,2025-05-01,,48,,Admin,Walk-in
+T071,Access Rights,High,Resolved,Ramesh D.,2025-04-09,2025-04-10,24,37.0,Finance,Walk-in
+T072,Network,Medium,Resolved,Suma T.,2025-04-03,2025-04-04,72,34.0,Sales,Email
+T073,Access Rights,High,In Progress,Ramesh D.,2025-04-05,,24,,HR,Email
+T074,Access Rights,Low,Resolved,Ramesh D.,2025-04-14,2025-04-16,48,63.0,Admin,Walk-in
+T075,Email Issues,Medium,Open,Priya S.,2025-04-29,,72,,IT Support,Phone
+T076,Email Issues,High,Escalated,Neha V.,2025-04-10,,48,,Sales,Web Portal
+T077,Access Rights,Low,Resolved,Priya S.,2025-04-16,2025-04-17,24,31.0,Finance,Walk-in
+T078,Software,High,Escalated,John M.,2025-04-24,,24,,IT Support,Walk-in
+T079,Hardware,High,Open,Priya S.,2025-04-19,,72,,HR,Walk-in
+T080,Network,Low,Resolved,Priya S.,2025-04-06,2025-04-07,24,28.0,Finance,Phone
+T081,Network,Low,Resolved,Priya S.,2025-04-25,2025-04-27,48,57.0,IT Support,Email
+T082,Hardware,High,In Progress,Alex Kumar,2025-05-01,,48,,IT Support,Web Portal
+T083,Software,Low,In Progress,Priya S.,2025-04-07,,24,,IT Support,Web Portal
+T084,Software,High,Resolved,John M.,2025-04-15,2025-04-17,72,51.0,IT Support,Web Portal
+T085,Email Issues,Low,Open,Suma T.,2025-05-01,,48,,Sales,Walk-in
+T086,Hardware,High,In Progress,Neha V.,2025-04-13,,72,,HR,Email
+T087,Email Issues,Low,Open,Suma T.,2025-04-23,,48,,Sales,Walk-in
+T088,Email Issues,High,Open,Suma T.,2025-04-22,,48,,IT Support,Walk-in
+T089,Access Rights,Medium,Open,Neha V.,2025-04-27,,48,,Admin,Web Portal
+T090,Email Issues,Medium,Resolved,Priya S.,2025-04-14,2025-04-15,24,43.0,Admin,Phone
+T091,Network,Medium,Open,Ramesh D.,2025-04-11,,24,,Admin,Walk-in
+T092,Network,Low,Escalated,Priya S.,2025-04-11,,24,,HR,Phone
+T093,Email Issues,High,Resolved,Suma T.,2025-04-26,2025-04-27,48,39.0,Sales,Email
+T094,Software,High,Open,Priya S.,2025-04-17,,24,,Admin,Web Portal
+T095,Access Rights,Low,Escalated,Alex Kumar,2025-04-23,,48,,Finance,Web Portal
+T096,Network,High,In Progress,John M.,2025-04-13,,72,,Finance,Walk-in
+T097,Email Issues,Medium,Resolved,Suma T.,2025-04-18,2025-04-20,72,58.0,Admin,Phone
+T098,Hardware,High,In Progress,Ramesh D.,2025-04-10,,48,,Finance,Email
+T099,Software,Low,In Progress,Neha V.,2025-04-24,,72,,Admin,Phone
+T100,Software,Medium,Resolved,Ramesh D.,2025-04-24,2025-04-24,72,16.0,Finance,Web Portal
+T101,Network,Low,In Progress,Alex Kumar,2025-04-10,,24,,Sales,Phone
+T102,Hardware,Low,Escalated,John M.,2025-04-23,,24,,Finance,Walk-in
+T103,Hardware,Medium,Resolved,Priya S.,2025-04-16,2025-04-17,48,27.0,IT Support,Email
+T104,Email Issues,High,Open,Neha V.,2025-04-13,,48,,IT Support,Web Portal
+T105,Software,Low,Resolved,John M.,2025-04-05,2025-04-05,72,14.0,Admin,Web Portal
+T106,Access Rights,Medium,Escalated,Suma T.,2025-04-25,,72,,Sales,Walk-in
+T107,Email Issues,High,Open,Alex Kumar,2025-04-10,,72,,HR,Web Portal
+T108,Software,Low,Open,Ramesh D.,2025-04-09,,72,,Sales,Email
+T109,Access Rights,High,Escalated,John M.,2025-04-06,,24,,Admin,Phone
+T110,Access Rights,Low,Resolved,Neha V.,2025-04-02,2025-04-02,24,22.0,HR,Phone
+T111,Access Rights,Low,In Progress,John M.,2025-04-26,,72,,HR,Web Portal
+T112,Hardware,Low,In Progress,Ramesh D.,2025-04-30,,48,,Finance,Phone
+T113,Network,High,Escalated,Priya S.,2025-04-15,,24,,Finance,Walk-in
+T114,Access Rights,High,Open,Suma T.,2025-04-15,,24,,Sales,Phone
+T115,Email Issues,High,In Progress,Alex Kumar,2025-04-01,,24,,Finance,Email
+T116,Email Issues,High,Escalated,Priya S.,2025-04-25,,24,,Finance,Web Portal
+T117,Hardware,Medium,Escalated,Suma T.,2025-04-19,,48,,Admin,Phone
+T118,Software,Medium,Open,Priya S.,2025-04-11,,72,,Admin,Phone
+T119,Access Rights,Low,Open,Suma T.,2025-04-22,,48,,Finance,Phone
+T120,Email Issues,Medium,Open,Priya S.,2025-04-04,,48,,IT Support,Web Portal
+T121,Access Rights,Low,Escalated,Ramesh D.,2025-04-17,,48,,Finance,Web Portal
+T122,Access Rights,Low,Escalated,Alex Kumar,2025-04-30,,48,,Sales,Web Portal
+T123,Hardware,High,Resolved,Priya S.,2025-04-23,2025-04-24,24,39.0,IT Support,Web Portal
+T124,Hardware,High,Escalated,Ramesh D.,2025-04-27,,24,,Admin,Phone
+T125,Access Rights,Medium,Resolved,Ramesh D.,2025-04-17,2025-04-19,72,57.0,Admin,Web Portal
+T126,Hardware,Medium,In Progress,Priya S.,2025-04-13,,24,,Finance,Phone
+T127,Email Issues,High,Resolved,Neha V.,2025-04-27,2025-04-27,24,23.0,Admin,Web Portal
+T128,Network,Medium,Escalated,John M.,2025-04-15,,72,,Sales,Walk-in
+T129,Software,High,In Progress,Priya S.,2025-04-15,,48,,HR,Walk-in
+T130,Access Rights,Medium,Escalated,Neha V.,2025-04-02,,48,,HR,Walk-in
+T131,Email Issues,High,In Progress,Suma T.,2025-05-01,,24,,IT Support,Walk-in
+T132,Hardware,High,Escalated,Ramesh D.,2025-04-04,,72,,Admin,Web Portal
+T133,Email Issues,High,Resolved,Priya S.,2025-04-03,2025-04-04,48,47.0,IT Support,Phone
+T134,Network,High,Escalated,Neha V.,2025-04-28,,72,,Admin,Email
+T135,Network,Low,In Progress,Neha V.,2025-04-20,,24,,IT Support,Walk-in
+T136,Access Rights,Low,Open,Neha V.,2025-04-04,,72,,Finance,Email
+T137,Network,Medium,Open,Suma T.,2025-04-02,,48,,Admin,Web Portal
+T138,Email Issues,High,Escalated,Ramesh D.,2025-04-08,,72,,HR,Web Portal
+T139,Email Issues,High,Escalated,Ramesh D.,2025-04-03,,72,,Admin,Web Portal
+T140,Network,High,Resolved,Alex Kumar,2025-04-08,2025-04-10,48,62.0,Admin,Phone
+T141,Hardware,Medium,In Progress,Suma T.,2025-04-22,,72,,Sales,Phone
+T142,Network,Low,Resolved,Priya S.,2025-04-21,2025-04-23,48,62.0,Admin,Email
+T143,Network,Low,Resolved,Neha V.,2025-04-08,2025-04-09,48,41.0,Admin,Phone
+T144,Email Issues,High,Open,Priya S.,2025-04-01,,72,,Finance,Web Portal
+T145,Software,High,In Progress,Suma T.,2025-04-20,,48,,HR,Email
+T146,Network,Medium,Open,Alex Kumar,2025-04-29,,72,,Sales,Phone
+T147,Network,Medium,Open,Neha V.,2025-04-24,,24,,Admin,Web Portal
+T148,Email Issues,Medium,Resolved,Ramesh D.,2025-04-07,2025-04-08,24,37.0,Finance,Walk-in
+T149,Access Rights,Low,Resolved,Ramesh D.,2025-05-01,2025-05-01,48,18.0,HR,Walk-in
+T150,Access Rights,Low,Resolved,Suma T.,2025-05-01,2025-05-01,72,15.0,Sales,Email
+T151,Network,Low,Resolved,Neha V.,2025-04-15,2025-04-17,48,52.0,HR,Walk-in
+T152,Software,High,Resolved,Alex Kumar,2025-04-01,2025-04-04,72,82.0,Admin,Phone
+T153,Software,Low,Open,Alex Kumar,2025-04-21,,48,,Finance,Walk-in
+T154,Email Issues,Low,In Progress,Priya S.,2025-04-04,,24,,Admin,Phone
+T155,Email Issues,High,Escalated,Neha V.,2025-04-22,,72,,HR,Walk-in
+T156,Email Issues,Medium,Escalated,Suma T.,2025-04-21,,24,,IT Support,Phone
+T157,Software,Medium,Escalated,Alex Kumar,2025-04-07,,48,,Finance,Phone
+T158,Hardware,Medium,Resolved,Alex Kumar,2025-04-02,2025-04-03,48,28.0,HR,Email
+T159,Software,High,In Progress,Ramesh D.,2025-04-02,,48,,IT Support,Web Portal
+T160,Network,Low,In Progress,John M.,2025-04-19,,24,,IT Support,Phone
+T161,Email Issues,Medium,In Progress,Ramesh D.,2025-04-28,,24,,IT Support,Email
+T162,Email Issues,Medium,Resolved,Alex Kumar,2025-04-05,2025-04-05,24,19.0,HR,Phone
+T163,Email Issues,Low,Escalated,Neha V.,2025-04-02,,24,,IT Support,Walk-in
+T164,Access Rights,High,Open,Ramesh D.,2025-04-15,,48,,Sales,Email
+T165,Hardware,Low,Resolved,Priya S.,2025-04-24,2025-04-26,72,62.0,Admin,Walk-in
+T166,Access Rights,Low,Escalated,Alex Kumar,2025-04-22,,24,,Finance,Web Portal
+T167,Email Issues,High,Resolved,Neha V.,2025-04-03,2025-04-04,24,43.0,Finance,Walk-in
+T168,Email Issues,High,Resolved,Priya S.,2025-04-20,2025-04-22,72,62.0,IT Support,Email
+T169,Access Rights,Medium,In Progress,Ramesh D.,2025-04-28,,72,,Admin,Phone
+T170,Access Rights,High,Escalated,Alex Kumar,2025-04-27,,48,,Finance,Walk-in
+T171,Software,High,Resolved,Priya S.,2025-04-11,2025-04-13,72,51.0,IT Support,Email
+T172,Access Rights,Low,Open,Neha V.,2025-04-27,,24,,Finance,Web Portal
+T173,Access Rights,Medium,Resolved,Neha V.,2025-04-18,2025-04-18,24,11.0,Admin,Email
+T174,Hardware,High,Resolved,John M.,2025-05-01,2025-05-03,48,49.0,HR,Web Portal
+T175,Hardware,Medium,In Progress,John M.,2025-04-22,,48,,Finance,Email
+T176,Access Rights,High,In Progress,John M.,2025-04-25,,48,,Sales,Email
+T177,Software,Medium,Resolved,Neha V.,2025-04-20,2025-04-20,72,7.0,Finance,Phone
+T178,Software,High,In Progress,Neha V.,2025-04-12,,24,,Admin,Email
+T179,Hardware,High,Open,John M.,2025-04-05,,72,,HR,Walk-in
+T180,Network,Medium,Resolved,Neha V.,2025-04-14,2025-04-15,48,24.0,Finance,Email
+T181,Software,High,In Progress,Alex Kumar,2025-04-29,,24,,IT Support,Phone
+T182,Access Rights,High,Escalated,Priya S.,2025-04-15,,72,,Admin,Phone
+T183,Network,Medium,Open,Alex Kumar,2025-04-07,,72,,Finance,Walk-in
+T184,Software,Medium,Resolved,John M.,2025-04-17,2025-04-17,72,9.0,IT Support,Email
+T185,Software,Medium,In Progress,Suma T.,2025-04-07,,48,,Finance,Email
+T186,Software,Low,Escalated,Priya S.,2025-04-01,,48,,Sales,Web Portal
+T187,Access Rights,High,Resolved,Alex Kumar,2025-04-17,2025-04-17,72,13.0,Admin,Email
+T188,Access Rights,High,Resolved,Priya S.,2025-04-15,2025-04-16,24,40.0,Admin,Phone
+T189,Network,Low,Open,John M.,2025-04-04,,48,,Admin,Phone
+T190,Software,Medium,Open,John M.,2025-04-03,,48,,Admin,Email
+T191,Network,Low,Resolved,Alex Kumar,2025-04-13,2025-04-14,48,32.0,Sales,Email
+T192,Network,Medium,In Progress,Neha V.,2025-04-17,,72,,HR,Web Portal
+T193,Software,High,Resolved,Ramesh D.,2025-04-04,2025-04-04,24,16.0,IT Support,Web Portal
+T194,Access Rights,High,Escalated,John M.,2025-05-01,,72,,Admin,Phone
+T195,Access Rights,Low,Resolved,Priya S.,2025-04-28,2025-04-28,72,23.0,Admin,Phone
+T196,Network,High,Open,Alex Kumar,2025-04-26,,48,,Finance,Walk-in
+T197,Network,Medium,Open,Alex Kumar,2025-04-15,,24,,IT Support,Walk-in
+T198,Access Rights,High,Open,Neha V.,2025-04-15,,72,,HR,Phone
+T199,Hardware,Medium,In Progress,Alex Kumar,2025-04-20,,48,,Finance,Email
+T200,Hardware,Low,In Progress,Neha V.,2025-04-17,,72,,Admin,Walk-in
+T201,Network,Medium,In Progress,Suma T.,2025-04-17,,72,,Admin,Walk-in
+T202,Network,Low,Open,Suma T.,2025-04-25,,48,,IT Support,Walk-in
+T203,Network,Low,In Progress,John M.,2025-04-10,,48,,HR,Phone
+T204,Software,High,Escalated,Neha V.,2025-04-10,,72,,IT Support,Phone
+T205,Email Issues,Low,Resolved,Neha V.,2025-04-18,2025-04-18,48,20.0,Admin,Phone
+T206,Software,Medium,Resolved,Priya S.,2025-04-01,2025-04-02,48,27.0,HR,Web Portal
+T207,Network,Low,Open,John M.,2025-04-05,,24,,Sales,Email
+T208,Email Issues,Medium,In Progress,Ramesh D.,2025-04-22,,48,,HR,Web Portal
+T209,Access Rights,Low,In Progress,Priya S.,2025-04-27,,72,,Finance,Web Portal
+T210,Software,High,Resolved,Ramesh D.,2025-04-15,2025-04-17,72,61.0,Finance,Walk-in
+T211,Access Rights,Medium,Resolved,Suma T.,2025-04-29,2025-04-30,24,40.0,Admin,Walk-in
+T212,Email Issues,Low,In Progress,Suma T.,2025-05-01,,24,,IT Support,Walk-in
+T213,Email Issues,Low,Open,Suma T.,2025-04-28,,48,,IT Support,Web Portal
+T214,Access Rights,Low,In Progress,Ramesh D.,2025-04-09,,48,,Admin,Phone
+T215,Hardware,Medium,Escalated,John M.,2025-04-30,,24,,Finance,Web Portal
+T216,Hardware,Medium,Resolved,Alex Kumar,2025-04-13,2025-04-13,24,18.0,Finance,Web Portal
+T217,Software,High,Resolved,Priya S.,2025-04-05,2025-04-06,24,34.0,Admin,Email
+T218,Network,Low,Open,Ramesh D.,2025-04-29,,24,,Sales,Walk-in
+T219,Network,Low,In Progress,Alex Kumar,2025-04-04,,48,,HR,Walk-in
+T220,Hardware,Low,Escalated,Priya S.,2025-04-21,,72,,Sales,Email
+T221,Software,Medium,In Progress,Priya S.,2025-04-21,,72,,IT Support,Phone
+T222,Software,High,Escalated,Neha V.,2025-04-08,,72,,IT Support,Phone
+T223,Access Rights,Medium,Open,Alex Kumar,2025-04-03,,72,,Admin,Phone
+T224,Network,Low,Open,Suma T.,2025-04-09,,72,,HR,Email
+T225,Hardware,Medium,Resolved,John M.,2025-04-25,2025-04-25,72,21.0,Finance,Web Portal
+T226,Access Rights,High,Escalated,Ramesh D.,2025-04-27,,72,,HR,Email
+T227,Network,Low,Open,Alex Kumar,2025-04-23,,48,,HR,Email
+T228,Email Issues,Medium,Escalated,Suma T.,2025-04-11,,48,,IT Support,Web Portal
+T229,Network,Medium,Open,Alex Kumar,2025-04-10,,48,,Finance,Walk-in
+T230,Access Rights,Medium,Escalated,Ramesh D.,2025-04-29,,48,,Admin,Walk-in
+T231,Access Rights,Low,Resolved,Priya S.,2025-04-12,2025-04-12,72,14.0,Sales,Web Portal
+T232,Hardware,Medium,Resolved,Neha V.,2025-04-18,2025-04-18,48,17.0,Finance,Phone
+T233,Software,High,Escalated,Priya S.,2025-04-15,,72,,Finance,Walk-in
+T234,Access Rights,Medium,Resolved,Neha V.,2025-04-02,2025-04-05,72,82.0,IT Support,Email
+T235,Network,High,Escalated,Neha V.,2025-04-22,,72,,HR,Email
+T236,Hardware,Low,Escalated,Alex Kumar,2025-04-05,,72,,HR,Phone
+T237,Email Issues,Low,Open,Neha V.,2025-04-12,,48,,Admin,Phone
+T238,Email Issues,Low,Open,John M.,2025-04-12,,48,,Finance,Walk-in
+T239,Hardware,Low,Resolved,Neha V.,2025-04-11,2025-04-12,72,35.0,HR,Walk-in
+T240,Network,Medium,Open,Neha V.,2025-04-17,,48,,Admin,Web Portal
+T241,Software,Low,Escalated,Ramesh D.,2025-04-20,,48,,IT Support,Walk-in
+T242,Hardware,High,Escalated,Suma T.,2025-04-06,,72,,Finance,Email
+T243,Software,High,Resolved,Neha V.,2025-04-18,2025-04-19,72,42.0,HR,Phone
+T244,Software,Low,Open,Ramesh D.,2025-04-17,,24,,Admin,Email
+T245,Email Issues,Low,Resolved,John M.,2025-04-12,2025-04-14,72,63.0,IT Support,Email
+T246,Email Issues,Medium,Escalated,Priya S.,2025-04-10,,48,,Sales,Email
+T247,Access Rights,Medium,Open,Neha V.,2025-04-05,,48,,Sales,Phone
+T248,Software,Medium,In Progress,John M.,2025-04-05,,72,,IT Support,Email
+T249,Software,Medium,Resolved,Neha V.,2025-04-17,2025-04-17,24,14.0,HR,Phone
+T250,Network,Low,Resolved,Neha V.,2025-05-01,2025-05-01,72,14.0,Sales,Phone
+T251,Email Issues,Low,Resolved,John M.,2025-04-05,2025-04-08,72,82.0,HR,Web Portal
+T252,Hardware,Low,Resolved,Alex Kumar,2025-04-06,2025-04-09,72,76.0,IT Support,Phone
+T253,Email Issues,High,Escalated,Alex Kumar,2025-04-21,,24,,Admin,Phone
+T254,Software,High,Escalated,Priya S.,2025-04-21,,48,,Finance,Walk-in
+T255,Software,Medium,Open,Priya S.,2025-04-03,,72,,Admin,Walk-in
+T256,Network,High,In Progress,Suma T.,2025-04-07,,48,,Finance,Walk-in
+T257,Network,Low,Open,Priya S.,2025-04-05,,48,,IT Support,Phone
+T258,Hardware,Low,In Progress,Suma T.,2025-04-15,,24,,Admin,Walk-in
+T259,Network,Low,Resolved,Ramesh D.,2025-04-08,2025-04-09,24,40.0,Admin,Walk-in
+T260,Hardware,Low,Escalated,Priya S.,2025-04-16,,48,,Sales,Walk-in
+T261,Email Issues,Medium,In Progress,Alex Kumar,2025-05-01,,24,,IT Support,Phone
+T262,Network,High,Escalated,Alex Kumar,2025-04-16,,72,,IT Support,Walk-in
+T263,Network,Low,Resolved,Priya S.,2025-04-05,2025-04-07,48,55.0,IT Support,Web Portal
+T264,Access Rights,High,Resolved,Priya S.,2025-04-12,2025-04-12,72,13.0,Sales,Phone
+T265,Software,Low,Open,Priya S.,2025-04-27,,72,,Finance,Phone
+T266,Software,High,In Progress,John M.,2025-04-18,,48,,Admin,Email
+T267,Network,Medium,In Progress,John M.,2025-04-02,,24,,Admin,Web Portal
+T268,Network,High,In Progress,Suma T.,2025-04-20,,72,,HR,Walk-in
+T269,Network,High,Resolved,John M.,2025-04-20,2025-04-23,72,79.0,Sales,Walk-in
+T270,Hardware,Medium,Resolved,Suma T.,2025-04-23,2025-04-25,72,64.0,IT Support,Walk-in
+T271,Email Issues,Medium,Open,Suma T.,2025-04-19,,48,,Sales,Web Portal
+T272,Software,High,Escalated,Neha V.,2025-04-24,,24,,Sales,Walk-in
+T273,Hardware,High,In Progress,Neha V.,2025-04-05,,72,,IT Support,Web Portal
+T274,Software,Medium,Resolved,Neha V.,2025-04-01,2025-04-03,48,57.0,HR,Walk-in
+T275,Hardware,High,Escalated,Ramesh D.,2025-04-17,,72,,Sales,Web Portal
+T276,Email Issues,Medium,Escalated,Suma T.,2025-04-18,,48,,HR,Walk-in
+T277,Network,High,Resolved,Neha V.,2025-04-30,2025-05-03,72,73.0,Finance,Walk-in
+T278,Network,Low,Resolved,Suma T.,2025-04-07,2025-04-08,24,39.0,Finance,Web Portal
+T279,Network,Medium,Escalated,Suma T.,2025-04-23,,72,,Sales,Phone
+T280,Access Rights,Medium,Escalated,Ramesh D.,2025-04-10,,24,,Finance,Email
+T281,Network,Medium,Open,Neha V.,2025-04-10,,72,,Finance,Walk-in
+T282,Network,Low,Resolved,Alex Kumar,2025-04-07,2025-04-08,24,39.0,Sales,Web Portal
+T283,Software,Low,In Progress,Alex Kumar,2025-04-08,,24,,Admin,Phone
+T284,Software,Low,Open,John M.,2025-04-23,,48,,HR,Walk-in
+T285,Software,Medium,Escalated,Suma T.,2025-04-21,,48,,Finance,Email
+T286,Email Issues,High,In Progress,Neha V.,2025-04-30,,24,,IT Support,Web Portal
+T287,Access Rights,Medium,Open,Ramesh D.,2025-04-14,,24,,Finance,Email
+T288,Network,Medium,Open,Priya S.,2025-04-01,,48,,Sales,Walk-in
+T289,Network,Low,Escalated,Alex Kumar,2025-04-29,,24,,Finance,Web Portal
+T290,Hardware,High,Resolved,Suma T.,2025-04-24,2025-04-25,48,27.0,Finance,Web Portal
+T291,Access Rights,High,Escalated,Suma T.,2025-04-06,,72,,IT Support,Walk-in
+T292,Software,Medium,In Progress,Suma T.,2025-04-22,,24,,HR,Email
+T293,Access Rights,Medium,In Progress,Suma T.,2025-04-09,,48,,Finance,Email
+T294,Software,Low,Resolved,Neha V.,2025-04-09,2025-04-12,72,92.0,IT Support,Walk-in
+T295,Email Issues,High,Escalated,Suma T.,2025-04-10,,24,,IT Support,Phone
+T296,Software,Low,In Progress,Priya S.,2025-04-12,,72,,HR,Walk-in
+T297,Email Issues,Medium,Resolved,John M.,2025-04-24,2025-04-26,72,57.0,HR,Web Portal
+T298,Email Issues,Medium,Open,John M.,2025-04-22,,72,,Finance,Email
+T299,Hardware,High,Open,John M.,2025-04-30,,72,,HR,Web Portal
+T300,Hardware,High,Escalated,Ramesh D.,2025-04-06,,48,,Sales,Walk-in
